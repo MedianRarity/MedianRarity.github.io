@@ -1,0 +1,8 @@
+TODO
+
+- make foundation templete for other pages
+- make main page look like shitty 90s era website
+
+FIXED
+- figure out how to embed images
+
