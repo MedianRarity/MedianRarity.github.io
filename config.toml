@@ -1,0 +1,9 @@
+base_url = "https://medianrarity.github.io/"
+title = "meanrare"
+description = "Personal site"
+default_language = "en"
+compile_sass = true
+
+[extra]
+user = "meanrare"
+github = "https://medianrarity.github.io/"
